@@ -1,0 +1,10 @@
+receptor = C:/Users/user/Documents/amr/cox2mice.pdbqt
+ligand = C:/Users/user/Documents/amr/structure1.pdbqt
+center_x = 114.586
+center_y = 131.872
+center_z = 134.717
+size_x = 61                                 
+size_y = 51                                 
+size_z = 69      
+out = C:/Users/user/Documents/amr/output.pdbqt
+log = C:/Users/user/Documents/amr/log.log
